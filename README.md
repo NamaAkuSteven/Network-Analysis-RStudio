@@ -6,12 +6,11 @@ By Steven, Jason, &amp; Lyndon
 Frontier Project – Network Analysis with R
 </p>
 </h1>
-
-<h3>
+<h2>
 <p align="center">
 About Network Analysis
 </p>
-</h3>
+</h2>
 	
 <p align="justify">
 Network Analysis is the mathematical analysis of complex working procedures in terms of a network of related activities by calculating the electric currents flowing in the various meshes of a network often carried out by a device used to model the network. In this model, all activities are displayed in the consideration of time and dependencies. The method of the network analysis is used to control the project. The individual activities will be arranged and recorded according to the dependencies and their time required. Such a planning of the logical relationships between activities and their timing is the basis for the creation of the communication tools. [1]
