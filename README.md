@@ -1,9 +1,4 @@
-<h1>
-<p align="center">
-Frontier Project – Network Analysis with R
-	<h3>By Steven, Jason, Lyndon</h3>
-</p>
-</h1>
+<h1><p align="center">Frontier Project – Network Analysis with R</p></h1>
 <h2>
 <p align="center">
 About Network Analysis
