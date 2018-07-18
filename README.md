@@ -29,6 +29,7 @@ The Process
 </p>
 </h2>
 
+<p align="justify">
 In order to install RStudio, we must have to install R. After installing R, we can install RStudio. RStudio will check if your computer already installed R, and if you already do, the process won’t be obstructed. Open RStudio, and transfer the file that you have found into RStudio.
 
 ![rstudio screen](https://user-images.githubusercontent.com/25146223/42859589-1410657e-8a7e-11e8-921e-843bc09bda97.png)
