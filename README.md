@@ -35,6 +35,12 @@ The Project
 <p align="justify">
 I, along with our group, which consist of two more people, am going to replicate Network Analysis using RStudio. We also use Google Chrome for our trusted Browser to browse through any information regarding of Network Analysis and tested the project. During our project, we found a lot of hardship. For starter, we have mistaken our project for ‘Sentiment Analysis’, so we wasted a lot of our time making ‘Sentiment Analysis’ diagram in RStudio. Secondly, some of the code that we downloaded didn’t work and we don’t know why. Thirdly, for me personally, the group isn’t able to manage time and didn’t work passionately. It pains me to do most of 80% of the project alone, while others just laughing and partying.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/25146223/42880481-a946fc94-8abe-11e8-89a1-103d36a5c81f.png">
+</p>
+
+^RStudio Logo
+
 <h2>
 <p align="center">
 The Process
