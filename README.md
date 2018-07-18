@@ -4,6 +4,9 @@ By Steven, Jason, &amp; Lyndon
 <p align="center">
 <h1>
 Frontier Project – Network Analysis with R
+</p>
+
+<p align="center">
 About Network Analysis
 </h1>
 </p>
