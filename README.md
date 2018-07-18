@@ -76,10 +76,9 @@ The Output
 
 ^The output
 
-
+![graph](https://user-images.githubusercontent.com/25146223/42860822-8c351442-8a82-11e8-8dcd-0fe288e1f4f2.png)
 
 ^The output using graph plot
-
 
 <h2>
 <p align="center">
