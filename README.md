@@ -56,7 +56,9 @@ Once RStudio is installed, download the source code from the trusted website. Ju
 ^The library that must be installed in RStudio before running the code
 
 Once the libraries are all sets, click the run button in the top-middle of the screen. When you click the button, it will read the line of code of the corresponding line. Make sure to start from line 1 (Starting Point).
- 
+
+![run button](https://user-images.githubusercontent.com/25146223/42860382-5f6e02c2-8a80-11e8-93e7-f2ec6d562ae0.png)
+
 ^The ‘Run Button’ is located in the top-left screen
  
 ^The ‘Run Button’
