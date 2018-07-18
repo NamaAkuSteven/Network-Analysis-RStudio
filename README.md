@@ -101,4 +101,4 @@ Note
 </h2>
 
 <p align="justify">
-We didn’t fully copy the work, we edit it to create something different. All articles and code belongs to their perspective owner. Thank you for reading my repository! ^w^
+We didn’t fully copy the work, we edit it to create something different. All articles and code belongs to their perspective owner. Thank you for reading my repository! ^w^ 
