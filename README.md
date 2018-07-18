@@ -72,7 +72,7 @@ The Output
  
 ^The bottom line of the code and the output
 
-
+![output large](https://user-images.githubusercontent.com/25146223/42860753-2be3091e-8a82-11e8-8c2b-f8103932af38.png)
 
 ^The output
 
@@ -81,7 +81,11 @@ The Output
 ^The output using graph plot
 
 
-Reference
+<h2>
+<p align="center">
+References
+</p>
+</h2>
 
 1 https://www.inloox.com/project-management-glossary/network-analysis/
 
