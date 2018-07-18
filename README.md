@@ -95,7 +95,11 @@ References
 
 4 https://github.com/tertiarycourses/RSocialMedia (The Source Code)
 
+<h2>
+<p align="center">
 Note
+</p>
+</h2>
 
 We didn’t fully copy the work, we edit it to create something different. All articles and code belongs to their perspective owner.
 
