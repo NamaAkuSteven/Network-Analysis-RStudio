@@ -4,7 +4,7 @@ By Steven, Jason, &amp; Lyndon
 <p align="center">
 <h1>
 Frontier Project – Network Analysis with R
-</p>
+</p></h1>
 
 <p align="center">
 About Network Analysis
