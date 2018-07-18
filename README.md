@@ -38,29 +38,17 @@ In order to install RStudio, we must have to install R. After installing R, we c
 <p align="justify">
 Once RStudio is installed, download the source code from the trusted website. Just a side note though, before you run the application makes sure to install every package in the code (seen in image below). For our project, we need to install the following library:
 
-•	library(twitteR)
+•	library(twitteR) - twitteR is an R package which provides access to the Twitter API.
 
-<padding-left:5em>o	twitteR is an R package which provides access to the Twitter API.
+•	library(ROAuth) - Provides an interface to the OAuth 1.0 specification allowing users to authenticate via OAuth to the server of their choice.
 
-•	library(ROAuth)
+•	library(RCurl) - Provides functions to allow one to compose general HTTP requests and provides convenient functions to fetch URIs, get & post forms, etc. and process the results returned by the Web server.
 
-o	Provides an interface to the OAuth 1.0 specification allowing users to authenticate via OAuth to the server of their choice.
+•	library(httr) - Useful tools for working with HTTP organized by HTTP verbs (GET(), POST(), etc).
 
-•	library(RCurl)
+•	library(magrittr) - Provides a mechanism for chaining commands with a new forward-pipe operator, %>%. This operator will forward a value, or the result of an expression, into the next function call/expression.
 
-o	Provides functions to allow one to compose general HTTP requests and provides convenient functions to fetch URIs, get & post forms, etc. and process the results returned by the Web server.
-
-•	library(httr)
-
-o	Useful tools for working with HTTP organized by HTTP verbs (GET(), POST(), etc).
-
-•	library(magrittr)
-
-o	Provides a mechanism for chaining commands with a new forward-pipe operator, %>%. This operator will forward a value, or the result of an expression, into the next function call/expression.
-
-•	library(igraph)
-
-o	Routines for simple graphs and network analysis.
+•	library(igraph) - Routines for simple graphs and network analysis.
 
 ![library](https://user-images.githubusercontent.com/25146223/42859504-8b0db768-8a7d-11e8-96fc-9c3a02dba439.jpg)
 
