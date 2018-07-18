@@ -23,7 +23,12 @@ The Project
 <p align="justify">
 I, along with our group, which consist of two more people, am going to replicate Network Analysis using RStudio. We also use Google Chrome for our trusted Browser to browse through any information regarding of Network Analysis and tested the project. During our project, we found a lot of hardship. For starter, we have mistaken our project for ‘Sentiment Analysis’, so we wasted a lot of our time making ‘Sentiment Analysis’ diagram in RStudio. Secondly, some of the code that we downloaded didn’t work and we don’t know why. Thirdly, for me personally, the group isn’t able to manage time and didn’t work passionately. It pains me to do most of 80% of the project alone, while others just laughing and partying.
 
-The process
+<h2>
+<p align="center">
+The Process
+</p>
+</h2>
+
 In order to install RStudio, we must have to install R. After installing R, we can install RStudio. RStudio will check if your computer already installed R, and if you already do, the process won’t be obstructed. Open RStudio, and transfer the file that you have found into RStudio.
 
 <p align="center">
@@ -31,7 +36,6 @@ In order to install RStudio, we must have to install R. After installing R, we c
  ![image](https://user-images.githubusercontent.com/25146223/42857852-e9e28e10-8a75-11e8-9c7a-ac9442d15f1f.png)
   
 ^When you open RStudio with the code in it
-</p>
 
 Once RStudio is installed, download the source code from the trusted website. Just a side note though, before you run the application makes sure to install every package in the code (seen in image below). For our project, we need to install the following library:
 
