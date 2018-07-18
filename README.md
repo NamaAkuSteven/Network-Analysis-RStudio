@@ -55,10 +55,10 @@ library(RCurl)
 library(httr)
 library(magrittr)
 library(igraph)
-key="Mblrycq3sF4JTIEfBDvzbSefr"
-secret="sVSnam6T7fOCRDlig8tcbJTBMb1sHfYTL94Dfp5soFpbA4fxD8"
-tktoken="446052007-HX8Q2RIYvd4YTYInwMvyDOxK41hZKBaMLTlFEl5e"
-tksecret="Bt7Wkuxwj1qWFL0nFOp8GA25Rnw5iCjs892EVcBvt86qC"
+key="xxx"
+secret="xxx"
+tktoken="xxx"
+tksecret="xxx"
 cacert="C://Users//user//Desktop//RcodeProg//{Rsocialmedia}//httrOauth//cacert.pem"
 setup_twitter_oauth(key,secret,tktoken,tksecret)
 myUser=getUser("DwightFonseka")
