@@ -4,7 +4,6 @@ By Steven, Jason, &amp; Lyndon
 <p align="center">
 Frontier Project – Network Analysis with R
 </p>
-## The second largest heading
 <h2>
 <p align="center">
 About Network Analysis
