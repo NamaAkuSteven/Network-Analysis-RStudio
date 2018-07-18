@@ -121,7 +121,9 @@ Like what I described in the process video, we mistaken our 'Network Analysis' p
 
 We also tried to use Shiny, but no avail. All we got is the blank webpage with some plug-ins in the left.
 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/25146223/42880607-0fc7f7c0-8abf-11e8-9f03-21a806fa061d.jpg">
+</p>
 
 ^The Shiny experiment went wrong
 
