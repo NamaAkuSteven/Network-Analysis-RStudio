@@ -1,10 +1,11 @@
 # Network-Analysis-RStudio
 By Steven, Jason, &amp; Lyndon
 
-<p align="center">
 <h1>
+<p align="center">
 Frontier Project – Network Analysis with R
-</p></h1>
+</p>
+</h1>
 
 <p align="center">
 About Network Analysis
