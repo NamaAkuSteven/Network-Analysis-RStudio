@@ -40,7 +40,8 @@ Once RStudio is installed, download the source code from the trusted website. Ju
 
 •	library(twitteR)
 
-o	twitteR is an R package which provides access to the Twitter API.
+<padding-left:5em>o	twitteR is an R package which provides access to the Twitter API.
+
 •	library(ROAuth)
 
 o	Provides an interface to the OAuth 1.0 specification allowing users to authenticate via OAuth to the server of their choice.
