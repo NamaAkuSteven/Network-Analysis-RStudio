@@ -61,7 +61,7 @@ o	Provides a mechanism for chaining commands with a new forward-pipe operator, %
 
 o	Routines for simple graphs and network analysis.
 
-
+![library](https://user-images.githubusercontent.com/25146223/42859504-8b0db768-8a7d-11e8-96fc-9c3a02dba439.jpg)
 
 ^The library that must be installed in RStudio before running the code
 
