@@ -106,6 +106,27 @@ The Output
 
 <h2>
 <p align="center">
+The Mistake
+</p>
+</h2>
+
+<p align="justify">
+Like what I described in the process video, we mistaken our 'Network Analysis' project with 'Semantic Project, so we ended up dug up something unrelated.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/25146223/42880608-10038074-8abf-11e8-98e7-708a4f301372.jpg">
+</p>
+
+^The example of Semantic Analysis
+
+We also tried to use Shiny, but no avail. All we got is the blank webpage with some plug-ins in the left.
+
+
+
+^The Shiny experiment went wrong
+
+<h2>
+<p align="center">
 References
 </p>
 </h2>
