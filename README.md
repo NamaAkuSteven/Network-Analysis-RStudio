@@ -60,7 +60,9 @@ Once the libraries are all sets, click the run button in the top-middle of the s
 ![run button](https://user-images.githubusercontent.com/25146223/42860382-5f6e02c2-8a80-11e8-93e7-f2ec6d562ae0.png)
 
 ^The ‘Run Button’ is located in the top-left screen
- 
+
+![run button 2](https://user-images.githubusercontent.com/25146223/42860608-9e5d39ca-8a81-11e8-88b7-9f9d34556be1.png)
+
 ^The ‘Run Button’
 
 Click it repeatedly until the line reaches the bottom of the code (Ending Point). Once it reaches bottom line, checks the output.
