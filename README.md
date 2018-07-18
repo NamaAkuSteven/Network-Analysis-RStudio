@@ -67,11 +67,17 @@ Once the libraries are all sets, click the run button in the top-middle of the s
 
 Click it repeatedly until the line reaches the bottom of the code (Ending Point). Once it reaches bottom line, checks the output.
 The Output
+
+![output small](https://user-images.githubusercontent.com/25146223/42860648-c6bc2d04-8a81-11e8-9971-43c3b068197d.jpg)
  
 ^The bottom line of the code and the output
- 
+
+
+
 ^The output
- 
+
+
+
 ^The output using graph plot
 
 
