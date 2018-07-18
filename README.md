@@ -8,7 +8,9 @@ About Network Analysis
 <p align="justify">
 Network Analysis is the mathematical analysis of complex working procedures in terms of a network of related activities by calculating the electric currents flowing in the various meshes of a network often carried out by a device used to model the network. In this model, all activities are displayed in the consideration of time and dependencies. The method of the network analysis is used to control the project. The individual activities will be arranged and recorded according to the dependencies and their time required. Such a planning of the logical relationships between activities and their timing is the basis for the creation of the communication tools. [1]
 
-![network](https://user-images.githubusercontent.com/25146223/42880259-eac7b754-8abd-11e8-8a15-acb95237e688.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/25146223/42880259-eac7b754-8abd-11e8-8a15-acb95237e688.jpg">
+</p>
 
 ^Network Analysis
 
