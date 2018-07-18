@@ -5,10 +5,14 @@ By Steven, Jason, &amp; Lyndon
 Frontier Project – Network Analysis with R
 <p align="center">
 	About Network Analysis</b>
+	
+<p align="justify">
 Network Analysis is the mathematical analysis of complex working procedures in terms of a network of related activities by calculating the electric currents flowing in the various meshes of a network often carried out by a device used to model the network. In this model, all activities are displayed in the consideration of time and dependencies. The method of the network analysis is used to control the project. The individual activities will be arranged and recorded according to the dependencies and their time required. Such a planning of the logical relationships between activities and their timing is the basis for the creation of the communication tools. [1]
 
+<p align="justify">
 We have learned about Network Analysis. Now we can learn about Social Network Analysis, which play an important role for our project. Social network analysis, or SNA for short, is the mapping and measuring of relationships and flows between people, groups, organizations, computers, URLs, and other connected information / knowledge entities. The term social network refers to the articulation of a social relationship, ascribed or achieved, among individuals, families, households, villages, communities, regions, and so on. The nodes in the network are the people and groups while the links show relationships or flows between the nodes. SNA provides both a visual and a mathematical analysis of human relationships. [2]
 
+<p align="justify">
 Social network analysis is focused on uncovering the patterning of people's interaction. It is about the kind of patterning that Roger Brown described when he wrote: "Social structure becomes actually visible in an anthill; the movements and contacts one sees are not random but patterned. We should also be able to see structure in the life of an American community if we had a sufficiently remote vantage point, a point from which persons would appear to be small moving dots. . . . We should see that these dots do not randomly approach one another, that some are usually together, some meet often, some never. . . . If one could get far enough away from it human life would become pure pattern." [3]
 
 
