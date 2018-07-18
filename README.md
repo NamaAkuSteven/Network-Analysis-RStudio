@@ -30,13 +30,12 @@ The Process
 </h2>
 
 In order to install RStudio, we must have to install R. After installing R, we can install RStudio. RStudio will check if your computer already installed R, and if you already do, the process won’t be obstructed. Open RStudio, and transfer the file that you have found into RStudio.
-
-<p align="center">
  
  ![image](https://user-images.githubusercontent.com/25146223/42857852-e9e28e10-8a75-11e8-9c7a-ac9442d15f1f.png)
   
 ^When you open RStudio with the code in it
 
+<p align="justify">
 Once RStudio is installed, download the source code from the trusted website. Just a side note though, before you run the application makes sure to install every package in the code (seen in image below). For our project, we need to install the following library:
 
 •	library(twitteR)
@@ -61,7 +60,9 @@ o	Provides a mechanism for chaining commands with a new forward-pipe operator, %
 •	library(igraph)
 
 o	Routines for simple graphs and network analysis.
- 
+
+
+
 ^The library that must be installed in RStudio before running the code
 
 Once the libraries are all sets, click the run button in the top-middle of the screen. When you click the button, it will read the line of code of the corresponding line. Make sure to start from line 1 (Starting Point).
