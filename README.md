@@ -7,7 +7,7 @@ Frontier Project – Network Analysis with R
 </p>
 </h1>
 
-<font size="16">
+<font size="5">
 <p align="center">
 About Network Analysis
 </p>
@@ -22,9 +22,10 @@ We have learned about Network Analysis. Now we can learn about Social Network An
 <p align="justify">
 Social network analysis is focused on uncovering the patterning of people's interaction. It is about the kind of patterning that Roger Brown described when he wrote: "Social structure becomes actually visible in an anthill; the movements and contacts one sees are not random but patterned. We should also be able to see structure in the life of an American community if we had a sufficiently remote vantage point, a point from which persons would appear to be small moving dots. . . . We should see that these dots do not randomly approach one another, that some are usually together, some meet often, some never. . . . If one could get far enough away from it human life would become pure pattern." [3]
 
-
+<p align="center">
 The Project
 
+<p align="justify">
 I, along with our group, which consist of two more people, am going to replicate Network Analysis using RStudio. We also use Google Chrome for our trusted Browser to browse through any information regarding of Network Analysis and tested the project. During our project, we found a lot of hardship. For starter, we have mistaken our project for ‘Sentiment Analysis’, so we wasted a lot of our time making ‘Sentiment Analysis’ diagram in RStudio. Secondly, some of the code that we downloaded didn’t work and we don’t know why. Thirdly, for me personally, the group isn’t able to manage time and didn’t work passionately. It pains me to do most of 80% of the project alone, while others just laughing and partying.
 
 The process
@@ -150,10 +151,14 @@ plot(g_twitter_semantic,vertex.shape="none",edge.width=1.5,edge.curved = .5,edge
 
 Reference
 1 https://www.inloox.com/project-management-glossary/network-analysis/
+
 2 http://www.orgnet.com/sna.html
+
 3 http://www.insna.org/what_is_sna.html
+
 4 https://github.com/tertiarycourses/RSocialMedia
 
 Note
+
 We didn’t fully copy the work, we edit it to create something different. All articles and code belongs to their perspective owner.
 
