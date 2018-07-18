@@ -1,6 +1,11 @@
 <h1>
 <p align="center">
 Frontier Project – Network Analysis with R
+<div>
+<p align="center">
+By Steven, Jason, Lyndon
+</p>
+</div>
 </p>
 </h1>
 <h2>
