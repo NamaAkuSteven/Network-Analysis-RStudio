@@ -149,3 +149,8 @@ Note
 
 <p align="justify">
 We didn’t fully copy the work, we edit it to create something different. All articles and code belongs to their respective owner. Thank you for reading my repository! ^w^
+
+Created by:
+1. Steven 00000011580
+2. Jason 00000013271
+3. Lyndon 00000008803
